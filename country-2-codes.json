@@ -1,0 +1,1757 @@
+{
+    "valueSetId": "country-2-codes",
+    "valueSetDate": "2022-08-23",
+    "valueSetValues": {
+      "AD": {
+        "display": "Князівство Андорра",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AE": {
+        "display": "Об'єднані Арабські Емірати",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AF": {
+        "display": "Ісламський Емірат Афганістан",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AG": {
+        "display": "Антигуа і Барбуда",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AI": {
+        "display": "Ангілья",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AL": {
+        "display": "Республіка Албанія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AM": {
+        "display": "Республіка Вірменія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AO": {
+        "display": "Республіка Ангола",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AQ": {
+        "display": "Антарктида",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AR": {
+        "display": "Аргентинська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AS": {
+        "display": "Американське Самоа",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AT": {
+        "display": "Республіка Австрія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AU": {
+        "display": "Австралійська Співдружність",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AW": {
+        "display": "Країна Аруба",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AX": {
+        "display": "Аландські острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "AZ": {
+        "display": "Азербайджанська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BA": {
+        "display": "Боснія і Герцеговина",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BB": {
+        "display": "Барбадос",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BD": {
+        "display": "Народна Республіка Бангладеш",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BE": {
+        "display": "Королівство Бельгія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BF": {
+        "display": "Буркіна-Фасо",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BG": {
+        "display": "Республіка Болгарія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BH": {
+        "display": "Королівство Бахрейн",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BI": {
+        "display": "Республіка Бурунді",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BJ": {
+        "display": "Республіка Бенін",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BL": {
+        "display": "Територіальна колективність Сен-Бартелемі",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BM": {
+        "display": "Бермудські Острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BN": {
+        "display": "Держава Бруней Даруссалам",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BO": {
+        "display": "Багатонаціональна Держава Болівія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BQ": {
+        "display": "Карибські Нідерланди",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BR": {
+        "display": "Федеративна Республіка Бразилія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BS": {
+        "display": "Співдружність Багамських Островів",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BT": {
+        "display": "Королівство Бутан",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BV": {
+        "display": "Острів Буве",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BW": {
+        "display": "Республіка Ботсвана",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BY": {
+        "display": "Республіка Білорусь",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "BZ": {
+        "display": "Беліз",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CA": {
+        "display": "Канада",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CC": {
+        "display": "Кокосові острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CD": {
+        "display": "Демократична Республіка Конго",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CF": {
+        "display": "Центральноафриканська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CG": {
+        "display": "Республіка Конго",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CH": {
+        "display": "Швейцарська Конфедерація",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CI": {
+        "display": "Республіка Кот-д'Івуар",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CK": {
+        "display": "Острови Кука",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CL": {
+        "display": "Республіка Чилі",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CM": {
+        "display": "Республіка Камерун",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CN": {
+        "display": "Китайська Народна Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CO": {
+        "display": "Республіка Колумбія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CR": {
+        "display": "Республіка Коста-Рика",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CU": {
+        "display": "Республіка Куба",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CV": {
+        "display": "Республіка Кабо-Верде",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CW": {
+        "display": "Кюрасао",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CX": {
+        "display": "Острів Різдва",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CY": {
+        "display": "Республіка Кіпр",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "CZ": {
+        "display": "Чеська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "DE": {
+        "display": "Федеративна Республіка Німеччина",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "DJ": {
+        "display": "Республіка Джибуті",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "DK": {
+        "display": "Королівство Данія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "DM": {
+        "display": "Співдружність Домініки",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "DO": {
+        "display": "Домініканська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "DZ": {
+        "display": "Алжирська Народна Демократична Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "EC": {
+        "display": "Республіка Еквадор",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "EE": {
+        "display": "Естонська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "EG": {
+        "display": "Арабська Республіка Єгипет",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "EH": {
+        "display": "Західна Сахара",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ER": {
+        "display": "Держава Еритрея",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ES": {
+        "display": "Королівство Іспанія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ET": {
+        "display": "Федеративна Демократична Республіка Ефіопія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "FI": {
+        "display": "Фінляндська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "FJ": {
+        "display": "Республіка Фіджі",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "FK": {
+        "display": "Фолклендські Острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "FM": {
+        "display": "Федеративні Штати Мікронезії",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "FO": {
+        "display": "Фарерські острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "FR": {
+        "display": "Французька Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GA": {
+        "display": "Габонська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GB": {
+        "display": "Сполучене Королівство Великої Британії і Північної Ірландії",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GD": {
+        "display": "Гренада",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GE": {
+        "display": "Грузія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GF": {
+        "display": "Французька Гвіана",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GG": {
+        "display": "Гернсі",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GH": {
+        "display": "Республіка Гана",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GI": {
+        "display": "Гібралтар",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GL": {
+        "display": "Гренландія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GM": {
+        "display": "Республіка Гамбія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GN": {
+        "display": "Гвінейська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GP": {
+        "display": "Гваделупа",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GQ": {
+        "display": "Республіка Екваторіальна Гвінея",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GR": {
+        "display": "Грецька Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GS": {
+        "display": "Південна Джорджія і Південні Сандвічеві Острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GT": {
+        "display": "Республіка Гватемала",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GU": {
+        "display": "Гуам",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GW": {
+        "display": "Республіка Гвінея-Біссау",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "GY": {
+        "display": "Кооперативна Республіка Гайана",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "HK": {
+        "display": "Особливий адміністративний район Гонконг",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "HM": {
+        "display": "Острів Герд і острови Макдональд",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "HN": {
+        "display": "Республіка Гондурас",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "HR": {
+        "display": "Республіка Хорватія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "HT": {
+        "display": "Республіка Гаїті",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "HU": {
+        "display": "Угорщина",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ID": {
+        "display": "Республіка Індонезія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "IE": {
+        "display": "Ірландія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "IL": {
+        "display": "Держава Ізраїль",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "IM": {
+        "display": "Острів Мен",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "IN": {
+        "display": "Республіка Індія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "IO": {
+        "display": "Британська Територія в Індійському Океані",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "IQ": {
+        "display": "Республіка Ірак",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "IR": {
+        "display": "Ісламська Республіка Іран",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "IS": {
+        "display": "Республіка Ісландія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "IT": {
+        "display": "Італійська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "JE": {
+        "display": "Джерсі",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "JM": {
+        "display": "Ямайка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "JO": {
+        "display": "Йорданське Хашимітське Королівство",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "JP": {
+        "display": "Японія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KE": {
+        "display": "Республіка Кенія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KG": {
+        "display": "Киргизька Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KH": {
+        "display": "Королі́вство Камбоджа",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KI": {
+        "display": "Республіка Кірібаті",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KM": {
+        "display": "Союз Коморських островів",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KN": {
+        "display": "Федерація Сент-Крістофера і Невіса",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KP": {
+        "display": "Корейська Народно-Демократична Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KR": {
+        "display": "Республіка Корея",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KW": {
+        "display": "Держава Кувейт",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KY": {
+        "display": "Кайманові Острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "KZ": {
+        "display": "Республіка Казахстан",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LA": {
+        "display": "Лаоська Народно-Демократична Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LB": {
+        "display": "Ліванська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LC": {
+        "display": "Сент-Люсія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LI": {
+        "display": "Князівство Ліхтенштейн",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LK": {
+        "display": "Демократична Соціалістична Республіка Шри Ланка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LR": {
+        "display": "Республіка Ліберія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LS": {
+        "display": "Королівство Лесото",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LT": {
+        "display": "Литовська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LU": {
+        "display": "Велике Герцогство Люксембург",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LV": {
+        "display": "Латвійська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "LY": {
+        "display": "Держава Лівія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MA": {
+        "display": "Королівство Марокко",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MC": {
+        "display": "Князівство Монако",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MD": {
+        "display": "Республіка Молдова",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ME": {
+        "display": "Чорногорія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MF": {
+        "display": "Сен-Мартен (Франція)",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MG": {
+        "display": "Республіка Мадагаскар",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MH": {
+        "display": "Республіка Маршаллові Острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MK": {
+        "display": "Республіка Північна Македонія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ML": {
+        "display": "Республіка Малі",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MM": {
+        "display": "Республіка Союз М’янма",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MN": {
+        "display": "Монголія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MO": {
+        "display": "Спеціальний адміністративний район Аоминь",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MP": {
+        "display": "Північні Маріанські Острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MQ": {
+        "display": "Мартиніка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MR": {
+        "display": "Ісламська Республіка Мавританія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MS": {
+        "display": "Монтсеррат",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MT": {
+        "display": "Республіка Мальта",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MU": {
+        "display": "Республіка Маврикій",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MV": {
+        "display": "Республіка Мальдіви",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MW": {
+        "display": "Республіка Малаві",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MX": {
+        "display": "Мексиканські Сполучені Штати",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MY": {
+        "display": "Малайзія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "MZ": {
+        "display": "Республіка Мозамбік",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NA": {
+        "display": "Республіка Намібія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NC": {
+        "display": "Нова Каледонія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NE": {
+        "display": "Республіка Нігер",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NF": {
+        "display": "Острів Норфолк",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NG": {
+        "display": "Федеративна Республіка Нігерія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NI": {
+        "display": "Республіка Нікарагуа",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NL": {
+        "display": "Королівство Нідерланди",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NO": {
+        "display": "Королівство Норвегія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NP": {
+        "display": "Непал",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NR": {
+        "display": "Республіка Науру",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NU": {
+        "display": "Ніуе",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "NZ": {
+        "display": "Нова Зеландія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "OM": {
+        "display": "Султанат Оман",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PA": {
+        "display": "Республіка Панама",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PE": {
+        "display": "Республіка Перу",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PF": {
+        "display": "Французька Полінезія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PG": {
+        "display": "Незалежна Держава Папуа Нова Гвінея",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PH": {
+        "display": "Республіка Філіппіни",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PK": {
+        "display": "Ісламська Республіка Пакистан",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PL": {
+        "display": "Республіка Польща",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PM": {
+        "display": "Сен-П'єр і Мікелон",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PN": {
+        "display": "Острови Піткерн",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PR": {
+        "display": "Пуерто-Рико",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PS": {
+        "display": "Палестинська держава",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PT": {
+        "display": "Португальська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PW": {
+        "display": "Республіка Палау",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "PY": {
+        "display": "Республіка Парагвай",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "QA": {
+        "display": "Держава Катар",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "RE": {
+        "display": "Реюньйон",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "RO": {
+        "display": "Румунія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "RS": {
+        "display": "Республіка Сербія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "RU": {
+        "display": "російська федерація",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "RW": {
+        "display": "Республіка Руанда",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SA": {
+        "display": "Королівство Саудівська Аравія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SB": {
+        "display": "Соломонові Острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SC": {
+        "display": "Республіка Сейшельські Острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SD": {
+        "display": "Республіка Судан",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SE": {
+        "display": "Королівство Швеція",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SG": {
+        "display": "Республіка Сінгапур",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SH": {
+        "display": "Острови Святої Єлени, Вознесіння та Тристан-да-Кунья",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SI": {
+        "display": "Республіка Словенія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SJ": {
+        "display": "Свальбард і Ян-Маєн",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SK": {
+        "display": "Словацька Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SL": {
+        "display": "Республіка Сьєрра-Лєоне",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SM": {
+        "display": "Республіка Сан-Марино",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SN": {
+        "display": "Республіка Сенегал",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SO": {
+        "display": "Федеративна Республіка Сомалі",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SR": {
+        "display": "Республіка Суринам",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SS": {
+        "display": "Республіка Південний Судан",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ST": {
+        "display": "Демократична Республіка Сан-Томе і Прінсіпі",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SV": {
+        "display": "Республіка Ель-Сальвадор",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SX": {
+        "display": "Сінт-Мартен",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SY": {
+        "display": "Сирійська Арабська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "SZ": {
+        "display": "Королівство Есватіні",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TC": {
+        "display": "Острови Теркс і Кайкос",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TD": {
+        "display": "Республіка Чад",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TF": {
+        "display": "Французькі Південні й Антарктичні Території",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TG": {
+        "display": "Тоголезька Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TH": {
+        "display": "Королівство Таїланд",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TJ": {
+        "display": "Республіка Таджикистан",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TK": {
+        "display": "Токелау",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TL": {
+        "display": "Демократична Республіка Тимор-Лешті",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TM": {
+        "display": "Туркменістан",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TN": {
+        "display": "Туніська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TO": {
+        "display": "Королівство Тонга",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TR": {
+        "display": "Турецька Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TT": {
+        "display": "Республіка Тринідад і Тобаго",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TV": {
+        "display": "Тувалу",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TW": {
+        "display": "Тайвань (провінція Китайської Народної Республіки)",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "TZ": {
+        "display": "Об’єднана Республіка Танзанія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "UA": {
+        "display": "Україна",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "UG": {
+        "display": "Республіка Уганда",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "UM": {
+        "display": "Зовнішні малі острови США",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "US": {
+        "display": "Сполучені Штати Америки",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "UY": {
+        "display": "Східна Республіка Уругвай",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "UZ": {
+        "display": "Республіка Узбекистан",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "VA": {
+        "display": "Святий Престол",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "VC": {
+        "display": "Сент-Вінсент і Гренадіни",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "VE": {
+        "display": "Боліварська Республіка Венесуела",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "VG": {
+        "display": "Британські Віргінські Острови",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "VI": {
+        "display": "Віргінські острови,",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "VN": {
+        "display": "Соціалістична Республіка В’єтнам",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "VU": {
+        "display": "Республіка Вануату",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "WF": {
+        "display": "Волліс і Футуна",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "WS": {
+        "display": "Незалежна Держава Самоа",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "YE": {
+        "display": "Йєменська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "YT": {
+        "display": "Майотта",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ZA": {
+        "display": "Південно-Африканська Республіка",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ZM": {
+        "display": "Республіка Замбія",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "ZW": {
+        "display": "Республіка Зімбабве",
+        "lang": "ua",
+        "active": true,
+        "system": "urn:iso:std:iso:3166",
+        "version": ""
+      },
+      "XK": {
+        "display": "Республіка Косово",
+        "lang": "ua",
+        "active": true,
+        "system": "http://ec.europa.eu/temp/countrycodes",
+        "version": "1.4"
+      }
+    }
+  }
+  
